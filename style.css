@@ -31,8 +31,9 @@ body * {
   color: var(--text-color);
 }
 #container {
-  width: 360px;
-  height: 712px;
+  width: 100%;
+  max-width: 500px;
+  height: 100%;
   margin: 56px auto 0px auto;
   padding: 0 24px;
 }
